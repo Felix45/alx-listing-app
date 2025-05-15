@@ -9,8 +9,8 @@
 - Tailwindcss
 - Typescript
 
-| Directory         | Purpose                                                                 |
-|-------------------|-------------------------------------------------------------------------|
+|Directory         | Purpose                                                                 |
+|:-------------------|:-------------------------------------------------------------------------|
 | `components/`      | Contains reusable UI components such as buttons, cards, forms, etc.    |
 | `interfaces/`      | Defines TypeScript interfaces and types used for props, models, etc.   |
 | `constants/`       | Stores static values like enums, config variables, URLs, or messages.  |
